@@ -1,0 +1,11 @@
+.grid button{
+   grid-column: 2/2;
+   grid-row: 1/1;
+}
+.grid2 button{
+   grid-column: 2/2;
+   grid-row: 1/1;
+}
+.countButton button:hover{
+   border: black 5px solid;
+}
